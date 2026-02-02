@@ -70,3 +70,11 @@ Execute: Run the notebook cells sequentially to reproduce the analysis and visua
 
 This project is part of a Data Analyst portfolio, utilizing open-source data from the New York City Taxi and Limousine Commission (TLC).
 
+
+<img width="697" height="467" alt="Screenshot 2026-02-02 at 14 03 49" src="https://github.com/user-attachments/assets/4ad60be6-15d3-4c21-ba80-6bb98dba4a2b" />
+
+<img width="995" height="467" alt="Screenshot 2026-02-02 at 14 04 28" src="https://github.com/user-attachments/assets/feabc55e-2f4e-47a4-b13e-700e445882c3" />
+
+<img width="723" height="615" alt="Screenshot 2026-02-02 at 14 05 45" src="https://github.com/user-attachments/assets/49b16afa-822b-4634-8293-96ffadfb88ac" />
+
+
